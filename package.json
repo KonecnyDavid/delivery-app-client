@@ -1,0 +1,24 @@
+{
+  "name": "deliveryappclient",
+  "version": "0.0.83",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-flexbox-grid": "2.1.0",
+    "react-qr-reader": "2.2.1",
+    "semantic-ui-react": "1.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
